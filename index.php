@@ -1,5 +1,4 @@
 <?php
 
-require __DIR__ . '/src/app.php';
-require __DIR__ . '/src/controllers.php';
+require_once './src/app.php';
 echo "Helllo";
